@@ -8,3 +8,4 @@ Daily Data -- IEX Finance
 
 Minute level data -- Alpha vantage
 
+datareader -- many data sources
